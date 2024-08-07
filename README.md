@@ -1,3 +1,3 @@
-# belajar-git
+# learn-git
 
-Coba-coba dan testing pake GIT
+Try out the GIT & Github features
